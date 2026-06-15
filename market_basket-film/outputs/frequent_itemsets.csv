@@ -1,0 +1,300 @@
+size,itemset,support_count,support
+1,Robert De Niro,17,0.017
+1,Tom Hanks,14,0.014
+1,Al Pacino,13,0.013
+1,Brad Pitt,12,0.012
+1,Clint Eastwood,12,0.012
+1,Christian Bale,11,0.011
+1,Leonardo DiCaprio,11,0.011
+1,Matt Damon,11,0.011
+1,James Stewart,10,0.01
+1,Denzel Washington,9,0.009
+1,Ethan Hawke,9,0.009
+1,Humphrey Bogart,9,0.009
+1,Johnny Depp,9,0.009
+1,Michael Caine,9,0.009
+1,Scarlett Johansson,9,0.009
+1,Aamir Khan,8,0.008
+1,Harrison Ford,8,0.008
+1,Bruce Willis,7,0.007
+1,Cary Grant,7,0.007
+1,Edward Norton,7,0.007
+1,Emma Watson,7,0.007
+1,Ian McKellen,7,0.007
+1,Jake Gyllenhaal,7,0.007
+1,Jeff Bridges,7,0.007
+1,Mark Ruffalo,7,0.007
+1,Morgan Freeman,7,0.007
+1,Robert Downey Jr.,7,0.007
+1,Russell Crowe,7,0.007
+1,Tom Cruise,7,0.007
+1,Toshirô Mifune,7,0.007
+1,Audrey Hepburn,6,0.006
+1,Bill Murray,6,0.006
+1,Charles Chaplin,6,0.006
+1,Chris Evans,6,0.006
+1,Christopher Plummer,6,0.006
+1,Daniel Radcliffe,6,0.006
+1,Diane Keaton,6,0.006
+1,Dustin Hoffman,6,0.006
+1,Ed Harris,6,0.006
+1,Ethan Coen,6,0.006
+1,Gary Oldman,6,0.006
+1,Gene Hackman,6,0.006
+1,Jack Nicholson,6,0.006
+1,Joe Pesci,6,0.006
+1,John Wayne,6,0.006
+1,Josh Brolin,6,0.006
+1,Julianne Moore,6,0.006
+1,Katharine Hepburn,6,0.006
+1,Kevin Bacon,6,0.006
+1,Matthew McConaughey,6,0.006
+1,Paul Newman,6,0.006
+1,Philip Seymour Hoffman,6,0.006
+1,Rachel McAdams,6,0.006
+1,Rupert Grint,6,0.006
+1,Samuel L. Jackson,6,0.006
+1,Sean Penn,6,0.006
+1,Shah Rukh Khan,6,0.006
+1,Tatsuya Nakadai,6,0.006
+1,William Holden,6,0.006
+1,Akshay Kumar,5,0.005
+1,Alec Guinness,5,0.005
+1,Anthony Hopkins,5,0.005
+1,Catherine Keener,5,0.005
+1,Frances McDormand,5,0.005
+1,Jack Lemmon,5,0.005
+1,Jennifer Connelly,5,0.005
+1,Joaquin Phoenix,5,0.005
+1,John Goodman,5,0.005
+1,Julie Delpy,5,0.005
+1,Kate Winslet,5,0.005
+1,Kevin Spacey,5,0.005
+1,Ryan Gosling,5,0.005
+1,Sean Connery,5,0.005
+1,Tabu,5,0.005
+1,Tom Hardy,5,0.005
+1,Tony Chiu-Wai Leung,5,0.005
+1,Viggo Mortensen,5,0.005
+1,Willem Dafoe,5,0.005
+1,Woody Allen,5,0.005
+1,Amitabh Bachchan,4,0.004
+1,Ben Kingsley,4,0.004
+1,Benicio Del Toro,4,0.004
+1,Bill Nighy,4,0.004
+1,Bradley Cooper,4,0.004
+1,Brendan Gleeson,4,0.004
+1,Carrie Fisher,4,0.004
+1,Cate Blanchett,4,0.004
+1,Catherine Deneuve,4,0.004
+1,Charles Bronson,4,0.004
+1,Charlton Heston,4,0.004
+1,Chiwetel Ejiofor,4,0.004
+1,Claude Rains,4,0.004
+1,Clive Owen,4,0.004
+1,Daniel Craig,4,0.004
+1,Daniel Day-Lewis,4,0.004
+1,Domhnall Gleeson,4,0.004
+1,Franka Potente,4,0.004
+1,Gael García Bernal,4,0.004
+1,Geoffrey Rush,4,0.004
+1,George Clooney,4,0.004
+1,Henry Fonda,4,0.004
+1,Hugh Jackman,4,0.004
+1,Irrfan Khan,4,0.004
+1,Jack Hawkins,4,0.004
+1,James McAvoy,4,0.004
+1,Jamie Foxx,4,0.004
+1,Jared Leto,4,0.004
+1,Jodie Foster,4,0.004
+1,Joe Russo,4,0.004
+1,Joseph Gordon-Levitt,4,0.004
+1,Kang-ho Song,4,0.004
+1,Kathy Bates,4,0.004
+1,Keira Knightley,4,0.004
+1,Ken Watanabe,4,0.004
+1,Kevin Costner,4,0.004
+1,Kirk Douglas,4,0.004
+1,Kurt Russell,4,0.004
+1,Laura Dern,4,0.004
+1,Lauren Bacall,4,0.004
+1,Liam Neeson,4,0.004
+1,Mads Mikkelsen,4,0.004
+1,Marlon Brando,4,0.004
+1,Max von Sydow,4,0.004
+1,Meryl Streep,4,0.004
+1,Mia Farrow,4,0.004
+1,Michael Madsen,4,0.004
+1,Nawazuddin Siddiqui,4,0.004
+1,Orlando Bloom,4,0.004
+1,Paresh Rawal,4,0.004
+1,Patricia Arquette,4,0.004
+1,Robert Duvall,4,0.004
+1,Robert Shaw,4,0.004
+1,Robin Williams,4,0.004
+1,Rod Steiger,4,0.004
+1,Rooney Mara,4,0.004
+1,Samantha Morton,4,0.004
+1,Sigourney Weaver,4,0.004
+1,Simon Pegg,4,0.004
+1,Sushant Singh Rajput,4,0.004
+1,Takashi Shimura,4,0.004
+1,Tim Allen,4,0.004
+1,Tim Robbins,4,0.004
+1,Uma Thurman,4,0.004
+1,Walter Matthau,4,0.004
+1,Zoe Saldana,4,0.004
+1,Adrien Brody,3,0.003
+1,Alan Arkin,3,0.003
+1,Albert Brooks,3,0.003
+1,Alexandra Maria Lara,3,0.003
+1,Amy Adams,3,0.003
+1,Anne Hathaway,3,0.003
+1,Anthony Quinn,3,0.003
+1,Anupam Kher,3,0.003
+1,Arnold Schwarzenegger,3,0.003
+1,Ayushmann Khurrana,3,0.003
+1,Ben Affleck,3,0.003
+1,Bill Paxton,3,0.003
+1,Billy Crudup,3,0.003
+1,Brenda Blethyn,3,0.003
+1,Brie Larson,3,0.003
+1,Bryan Cranston,3,0.003
+1,Burt Lancaster,3,0.003
+1,Cary Elwes,3,0.003
+1,Chloë Grace Moretz,3,0.003
+1,Chris Cooper,3,0.003
+1,Chris Hemsworth,3,0.003
+1,Chris Pine,3,0.003
+1,Chris Pratt,3,0.003
+1,Christopher Lloyd,3,0.003
+1,Christopher Walken,3,0.003
+1,Claudia Cardinale,3,0.003
+1,Colin Firth,3,0.003
+1,Dakota Fanning,3,0.003
+1,Danny Aiello,3,0.003
+1,Danny Glover,3,0.003
+1,Diane Kruger,3,0.003
+1,Dianne Wiest,3,0.003
+1,Donald Sutherland,3,0.003
+1,Edward G. Robinson,3,0.003
+1,Elijah Wood,3,0.003
+1,Elizabeth Taylor,3,0.003
+1,Emma Stone,3,0.003
+1,Ewan McGregor,3,0.003
+1,Faye Dunaway,3,0.003
+1,Gena Rowlands,3,0.003
+1,Gene Wilder,3,0.003
+1,George C. Scott,3,0.003
+1,Gerard Butler,3,0.003
+1,Grace Kelly,3,0.003
+1,Gregory Peck,3,0.003
+1,Gunnar Björnstrand,3,0.003
+1,Guy Pearce,3,0.003
+1,Ingrid Bergman,3,0.003
+1,J.K. Simmons,3,0.003
+1,Jack Warden,3,0.003
+1,James Caan,3,0.003
+1,James Dean,3,0.003
+1,Janet Leigh,3,0.003
+1,Jason Schwartzman,3,0.003
+1,Javier Bardem,3,0.003
+1,Jay Baruchel,3,0.003
+1,Jean-Louis Trintignant,3,0.003
+1,Jeremy Renner,3,0.003
+1,Joan Allen,3,0.003
+1,John Cazale,3,0.003
+1,John Hurt,3,0.003
+1,John Malkovich,3,0.003
+1,John Musker,3,0.003
+1,John Turturro,3,0.003
+1,Jon Bernthal,3,0.003
+1,Jon Voight,3,0.003
+1,Joseph Cotten,3,0.003
+1,Jude Law,3,0.003
+1,Judi Dench,3,0.003
+1,Julie Christie,3,0.003
+1,Kareena Kapoor,3,0.003
+1,Karl Malden,3,0.003
+1,Kerry Washington,3,0.003
+1,Laurence Olivier,3,0.003
+1,Lee J. Cobb,3,0.003
+1,Lee Unkrich,3,0.003
+1,Liv Ullmann,3,0.003
+1,Madhavan,3,0.003
+1,Marion Cotillard,3,0.003
+1,Mark Hamill,3,0.003
+1,Mark Wahlberg,3,0.003
+1,Martin Balsam,3,0.003
+1,Martin Freeman,3,0.003
+1,Martin Sheen,3,0.003
+1,Matthew Broderick,3,0.003
+1,Mel Gibson,3,0.003
+1,Michelle Williams,3,0.003
+1,Moritz Bleibtreu,3,0.003
+1,Naomi Watts,3,0.003
+1,Natalie Portman,3,0.003
+1,Nicolas Cage,3,0.003
+1,Nicole Kidman,3,0.003
+1,Octavia Spencer,3,0.003
+1,Orson Welles,3,0.003
+1,Paddy Considine,3,0.003
+1,Peter O'Toole,3,0.003
+1,Peter Sellers,3,0.003
+1,Preity Zinta,3,0.003
+1,Ralph Fiennes,3,0.003
+1,Rana Daggubati,3,0.003
+1,Richard Gere,3,0.003
+1,Robert Mitchum,3,0.003
+1,Robert Redford,3,0.003
+1,Robin Wright,3,0.003
+1,Roy Scheider,3,0.003
+1,Sam Rockwell,3,0.003
+1,Sandra Bullock,3,0.003
+1,Sanjay Dutt,3,0.003
+1,Shahab Hosseini,3,0.003
+1,Shahid Kapoor,3,0.003
+1,Spencer Tracy,3,0.003
+1,Stellan Skarsgård,3,0.003
+1,Sterling Hayden,3,0.003
+1,Steve Carell,3,0.003
+1,Steve McQueen,3,0.003
+1,Sylvester Stallone,3,0.003
+1,Tatsuya Fujiwara,3,0.003
+1,Thomas Bo Larsen,3,0.003
+1,Toni Collette,3,0.003
+1,Val Kilmer,3,0.003
+1,Vera Miles,3,0.003
+1,Vin Diesel,3,0.003
+1,Winona Ryder,3,0.003
+1,Won Bin,3,0.003
+1,Woody Harrelson,3,0.003
+1,Yun-Fat Chow,3,0.003
+2,Daniel Radcliffe | Rupert Grint,6,0.006
+2,Daniel Radcliffe | Emma Watson,5,0.005
+2,Emma Watson | Rupert Grint,5,0.005
+2,Joe Pesci | Robert De Niro,4,0.004
+2,Tim Allen | Tom Hanks,4,0.004
+2,Al Pacino | Diane Keaton,3,0.003
+2,Al Pacino | Robert De Niro,3,0.003
+2,Carrie Fisher | Harrison Ford,3,0.003
+2,Carrie Fisher | Mark Hamill,3,0.003
+2,Chris Evans | Joe Russo,3,0.003
+2,Chris Evans | Robert Downey Jr.,3,0.003
+2,Chris Evans | Scarlett Johansson,3,0.003
+2,Christian Bale | Michael Caine,3,0.003
+2,Diane Keaton | Woody Allen,3,0.003
+2,Elijah Wood | Ian McKellen,3,0.003
+2,Elijah Wood | Orlando Bloom,3,0.003
+2,Ethan Coen | John Turturro,3,0.003
+2,Ethan Hawke | Julie Delpy,3,0.003
+2,Harrison Ford | Mark Hamill,3,0.003
+2,Humphrey Bogart | Lauren Bacall,3,0.003
+2,Ian McKellen | Orlando Bloom,3,0.003
+2,Joe Russo | Robert Downey Jr.,3,0.003
+2,Mark Ruffalo | Robert Downey Jr.,3,0.003
+2,Takashi Shimura | Toshirô Mifune,3,0.003
+2,Tatsuya Nakadai | Toshirô Mifune,3,0.003
+3,Daniel Radcliffe | Emma Watson | Rupert Grint,5,0.005
+3,Carrie Fisher | Harrison Ford | Mark Hamill,3,0.003
+3,Elijah Wood | Ian McKellen | Orlando Bloom,3,0.003

@@ -1,0 +1,4 @@
+setting,min_support,min_confidence,min_support_count,frequent_itemsets,association_rules,frequent_size_1,frequent_size_2,frequent_size_3,frequent_size_4
+High support,0.02,0.5,20,0,0,0,0.0,0.0,0.0
+Loose,0.002,0.2,2,791,439,641,121.0,25.0,4.0
+Final,0.003,0.5,3,299,46,271,25.0,3.0,0.0

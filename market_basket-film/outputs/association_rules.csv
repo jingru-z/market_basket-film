@@ -1,0 +1,47 @@
+antecedent,consequent,support_count,support,confidence,lift
+Elijah Wood,Ian McKellen | Orlando Bloom,3,0.003,1.0,333.3333333333333
+Ian McKellen | Orlando Bloom,Elijah Wood,3,0.003,1.0,333.3333333333333
+Mark Hamill,Carrie Fisher | Harrison Ford,3,0.003,1.0,333.3333333333333
+Carrie Fisher | Harrison Ford,Mark Hamill,3,0.003,1.0,333.3333333333333
+Elijah Wood,Orlando Bloom,3,0.003,1.0,250.0
+Mark Hamill,Carrie Fisher,3,0.003,1.0,250.0
+Elijah Wood | Ian McKellen,Orlando Bloom,3,0.003,1.0,250.0
+Harrison Ford | Mark Hamill,Carrie Fisher,3,0.003,1.0,250.0
+Daniel Radcliffe,Rupert Grint,6,0.006,1.0,166.66666666666666
+Rupert Grint,Daniel Radcliffe,6,0.006,1.0,166.66666666666666
+Daniel Radcliffe | Emma Watson,Rupert Grint,5,0.005,1.0,166.66666666666666
+Emma Watson | Rupert Grint,Daniel Radcliffe,5,0.005,1.0,166.66666666666666
+John Turturro,Ethan Coen,3,0.003,1.0,166.66666666666666
+Elijah Wood,Ian McKellen,3,0.003,1.0,142.85714285714286
+Elijah Wood | Orlando Bloom,Ian McKellen,3,0.003,1.0,142.85714285714286
+Mark Hamill,Harrison Ford,3,0.003,1.0,125.0
+Carrie Fisher | Mark Hamill,Harrison Ford,3,0.003,1.0,125.0
+Tim Allen,Tom Hanks,4,0.004,1.0,71.42857142857143
+Daniel Radcliffe,Emma Watson | Rupert Grint,5,0.005,0.8333333333333334,166.66666666666666
+Rupert Grint,Daniel Radcliffe | Emma Watson,5,0.005,0.8333333333333334,166.66666666666666
+Daniel Radcliffe,Emma Watson,5,0.005,0.8333333333333334,119.04761904761905
+Rupert Grint,Emma Watson,5,0.005,0.8333333333333334,119.04761904761905
+Daniel Radcliffe | Rupert Grint,Emma Watson,5,0.005,0.8333333333333334,119.04761904761905
+Orlando Bloom,Elijah Wood,3,0.003,0.75,250.0
+Carrie Fisher,Mark Hamill,3,0.003,0.75,250.0
+Orlando Bloom,Elijah Wood | Ian McKellen,3,0.003,0.75,250.0
+Carrie Fisher,Harrison Ford | Mark Hamill,3,0.003,0.75,250.0
+Joe Russo,Chris Evans,3,0.003,0.75,125.0
+Orlando Bloom,Ian McKellen,3,0.003,0.75,107.14285714285714
+Takashi Shimura,Toshirô Mifune,3,0.003,0.75,107.14285714285714
+Joe Russo,Robert Downey Jr.,3,0.003,0.75,107.14285714285714
+Carrie Fisher,Harrison Ford,3,0.003,0.75,93.75
+Lauren Bacall,Humphrey Bogart,3,0.003,0.75,83.33333333333334
+Emma Watson,Daniel Radcliffe,5,0.005,0.7142857142857143,119.04761904761905
+Emma Watson,Rupert Grint,5,0.005,0.7142857142857143,119.04761904761905
+Emma Watson,Daniel Radcliffe | Rupert Grint,5,0.005,0.7142857142857143,119.04761904761905
+Joe Pesci,Robert De Niro,4,0.004,0.6666666666666666,39.2156862745098
+Woody Allen,Diane Keaton,3,0.003,0.6,100.0
+Julie Delpy,Ethan Hawke,3,0.003,0.6,66.66666666666667
+Ethan Coen,John Turturro,3,0.003,0.5,166.66666666666666
+Chris Evans,Joe Russo,3,0.003,0.5,125.0
+Diane Keaton,Woody Allen,3,0.003,0.5,100.0
+Chris Evans,Robert Downey Jr.,3,0.003,0.5,71.42857142857143
+Tatsuya Nakadai,Toshirô Mifune,3,0.003,0.5,71.42857142857143
+Chris Evans,Scarlett Johansson,3,0.003,0.5,55.55555555555556
+Diane Keaton,Al Pacino,3,0.003,0.5,38.46153846153846
